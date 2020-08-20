@@ -1,0 +1,103 @@
+
+
+.log_button
+{
+    background: #FF405F 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 38px #00000042;
+    border-radius: 10px;
+    opacity: 1;
+    width:90px;
+    height:35px;
+    font-size: 16px;
+    border : 0px;
+    margin-left: auto;
+    margin-right: 35px;
+    color: whitesmoke;
+    font-weight: 400;
+    box-shadow: #00000042 0px 5px 38px;
+    font: normal normal medium 33px/39px Roboto;
+}
+
+.my-nav
+{
+    background-color: #484A4B;
+    height: 80px;
+    width: 100%;
+    box-shadow: 0px 5px 38px #00000042;
+    opacity: 1;
+}
+
+.my-nav2
+{
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    box-shadow: 0px 5px 38px #00000042;
+    opacity: 1;
+    font: normal normal medium 38px/46px Roboto;
+    letter-spacing: 0px;
+    color: #455A64;
+   
+    
+
+}
+
+.my-hr
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+    height: 12px;
+    background-color: #FF405F;
+    box-shadow: 0px 2px 20px #00000042;
+    opacity: 1;
+}
+
+
+.my-rows
+{
+    margin-bottom: 75px;
+
+}
+
+.my-card
+{
+    border-bottom: #FF405F solid 8px;
+    box-shadow: 0px 2px 20px #00000042;
+    border-radius: 2px;
+    opacity: 1;
+    background-color: white;
+    width: 25rem;
+    height: 13rem;
+}
+
+.card-name
+{
+    color:#455A64;
+    font: normal normal bold 41px/49px Roboto;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.card-description
+{
+    text-align: left;
+    font: normal normal 300 14px/16px Gilroy;
+    letter-spacing: 0px;
+    color: #455A64;
+    opacity: 1;
+}
+
+.img-nav
+{
+    border-radius: 50%;
+    border:  #455A64;
+    box-shadow: 0px 2px 20px #00000042;
+    margin-left: auto;
+    margin-right: 12px;
+
+}
+
+
+
+
