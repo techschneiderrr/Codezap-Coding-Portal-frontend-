@@ -97,6 +97,21 @@
     
 }
 
+.nav-head
+{ 
+    
+    text-align: left;
+    color:#455A64;
+    font-family:  Roboto;
+    font-weight: 450;
+    font-size: 32px;
+    font-weight: 380;
+    letter-spacing: 1%;
+    font-size: 28px;
+    margin-left: 16px;
+    
+}
+
 .card-name
 {
     text-align: left;
@@ -142,6 +157,8 @@
     font-size: 25px;
 }
 
+//MEDIA QUERIES//
+
 
 @media screen and (max-width:1200px)
 {
@@ -158,6 +175,24 @@
     color:#FF0000;
     font-size: 20px;
 }
+
+.nav-head
+{ 
+    
+    text-align: left;
+    color:#455A64;
+    font-family:  Roboto;
+    font-weight: 450;
+    font-size: 32px;
+    font-weight: 380;
+    letter-spacing: 1%;
+    font-size: 24px;
+    margin-left: 16px;
+    
+    
+}
+
+
 }
 
 @media screen and (max-width:1070px)
@@ -176,10 +211,21 @@
         font-size: 18px;
     }
 
-    .my-col
-    {
-        
-    }
+    .nav-head
+{ 
+    
+    text-align: left;
+    color:#455A64;
+    font-family:  Roboto;
+    font-weight: 450;
+    font-size: 32px;
+    font-weight: 380;
+    letter-spacing: 1%;
+    font-size: 16px;
+    margin-left: 16px;
+    
+    
+}
 }
 
 
