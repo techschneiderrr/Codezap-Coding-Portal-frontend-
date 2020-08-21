@@ -80,18 +80,8 @@
     padding-top: 0px;
 }
 
-.my-col
-{
-    margin-bottom: 400px;
-}
 
-.my-rows
-{
-    
-    max-height: 30%;
-    margin-bottom: 40%;
 
-}
 
 .my-card
 { 
@@ -135,7 +125,61 @@
     border:  #455A64;
     box-shadow: 0px 2px 20px #00000042;
   
+}
 
+
+.card_img
+    {
+        margin-left: 110px; 
+        margin-top: 0;
+        border-radius: 50%;
+        width: 20px;
+    }
+
+.contestant_count
+{
+    color:#FF0000;
+    font-size: 25px;
+}
+
+
+@media screen and (max-width:1200px)
+{
+    .card_img
+    {
+        margin-left: 15%; 
+        margin-top: 0;
+        border-radius: 50%;
+        width: 18px;
+    }
+
+    .contestant_count
+{
+    color:#FF0000;
+    font-size: 20px;
+}
+}
+
+@media screen and (max-width:1070px)
+{
+    .card_img
+    {
+        margin-left: 6%; 
+        margin-top: 0;
+        border-radius: 50%;
+        width: 15px;
+    }
+
+    .contestant_count
+    {
+        color:#FF0000;
+        font-size: 18px;
+    }
+
+    .my-col
+    {
+        
+    }
 }
 
 
