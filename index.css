@@ -12,6 +12,7 @@
     border : 0px;
     margin-left: auto;
     margin-right: 35px;
+    margin-bottom: 20px;
     color: whitesmoke;
     font-weight: 400;
     box-shadow: #00000042 0px 5px 38px;
@@ -92,7 +93,7 @@
     opacity: 1;
     background-color: white;
     width: 85%;
-    height: 30%;
+    height: 40%;
     max-height: 85%;
     
 }
@@ -170,7 +171,7 @@
         width: 18px;
     }
 
-    .contestant_count
+.contestant_count
 {
     color:#FF0000;
     font-size: 20px;
